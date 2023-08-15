@@ -1,7 +1,6 @@
 # How's going?
 - Hey, my name is Jess and i'm from Brazil, i'm a minecraft plugin developer :)
-	
-- I'm not much about talk... So i'll just share some of my work here ^^
+I'm not much about talk... So i'll just share some of my work here ^^
 
 # Projects
 - Mekanism ([Slimefun4 ](https://github.com/Slimefun/Slimefun4) Addons) => [Click here](https://github.com/TheExotik/Mekanism)
