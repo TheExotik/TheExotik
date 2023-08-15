@@ -8,4 +8,4 @@
 
 # Contact
   You can found me in my [discord](https://discord.gg/nJ83UkbYue)https://discord.gg/nJ83UkbYue server;
-  If you want to make a commision, you can call me in my [Gmail](jvfl.contato@gmail.com)
+  If you want to order a commission, you can DM me via discord.
