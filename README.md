@@ -1,6 +1,7 @@
 # How's going?
 - Hey, my name is Jess and i'm from Brazil, i'm a minecraft plugin developer :)
 - I'm not much about talk... So i'll just share some of my work here ^^
+- The source of my codes are **private**, i just show their functions, and how they works.
 
 # Contact
 - You can found me in my [discord](https://discord.gg/nJ83UkbYue) server;
