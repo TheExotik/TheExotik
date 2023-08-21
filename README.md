@@ -6,6 +6,7 @@
 # Contact
 - You can found me in my [discord](https://discord.gg/nJ83UkbYue) server;
 - If you want to order a commission, you can DM me via discord.
+- You can also open a ["Request" here](https://github.com/TheExotik/TheExotik/issues)
 
 # Projects
 - Discord Bot => [Click Here](https://github.com/TheExotik/Discord-Bot)
