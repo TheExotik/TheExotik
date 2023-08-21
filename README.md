@@ -8,6 +8,7 @@
 - If you want to order a commission, you can DM me via discord.
 
 # Projects
+- Discord Bot => [Click Here](https://github.com/TheExotik/Discord-Bot)
 - Mekanism ([Slimefun4 ](https://github.com/Slimefun/Slimefun4) Addons) => [Click here](https://github.com/TheExotik/Mekanism)
 - Industrial Craft ([Slimefun4](https://github.com/Slimefun/Slimefun4) Addons) => [Click here](https://github.com/TheExotik/IndustrialCraft)
 - Ex Nihilo ([Slimefun4](https://github.com/Slimefun/Slimefun4) Addons) => [Click here](https://github.com/TheExotik/ExNihilo)
