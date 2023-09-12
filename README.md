@@ -5,7 +5,7 @@
 
 # Contact
 - You can found me in my [discord](https://discord.gg/nJ83UkbYue) server;
-- You can contact me via Gmail [exotik.contato@gmail.com] if you want;
+- You can contact me via Gmail exotik.contato@gmail.com if you want;
 - If you want to order a commission, you can DM me via discord.
 - You can also open a ["Request"](https://github.com/TheExotik/TheExotik/issues) here (DO NOT send personal info here, use my discord instead.) This option is just for organization.
 
