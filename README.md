@@ -10,7 +10,7 @@
 - You can also open a ["Request"](https://github.com/TheExotik/TheExotik/issues) here (DO NOT send personal info here, use my discord instead.) This option is just for organization.
 
 # Java Projects
-- Discord Bot => [Click Here](https://github.com/TheExotik/Discord-Bot)    **DISCORD**
-- Mekanism ([Slimefun4 ](https://github.com/Slimefun/Slimefun4) Addons) => [Click here](https://github.com/TheExotik/Mekanism)    **MINECRAFT**
-- Industrial Craft ([Slimefun4](https://github.com/Slimefun/Slimefun4) Addons) => [Click here](https://github.com/TheExotik/IndustrialCraft)    **MINECRAFT**
-- Ex Nihilo ([Slimefun4](https://github.com/Slimefun/Slimefun4) Addons) => [Click here](https://github.com/TheExotik/ExNihilo)    **MINECRAFT**
+- Discord Bot => [Click Here](https://github.com/TheExotik/Discord-Bot).    **-> DISCORD**
+- Mekanism ([Slimefun4 ](https://github.com/Slimefun/Slimefun4) Addons) => [Click here](https://github.com/TheExotik/Mekanism).    **-> MINECRAFT**
+- Industrial Craft ([Slimefun4](https://github.com/Slimefun/Slimefun4) Addons) => [Click here](https://github.com/TheExotik/IndustrialCraft).    **-> MINECRAFT**
+- Ex Nihilo ([Slimefun4](https://github.com/Slimefun/Slimefun4) Addons) => [Click here](https://github.com/TheExotik/ExNihilo).    **-> MINECRAFT**
