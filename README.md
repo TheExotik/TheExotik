@@ -16,4 +16,4 @@
 
 # JavaScript Projects
 - (**Landing Page**) *Without Name yet* => [Click Here](https://github.com/TheExotik/LandingPage.1).
-- (**Game**) Stay Earn => [Click Here](https://rede-spectro.com.br/Menus/Home/HomePage.html).
+- (**Game**) Stay Earn => Play-To-Earn [Click Here to Play](https://rede-spectro.com.br/Menus/Home/HomePage.html). or [Click Here to check the Code](https://github.com/TheExotik/StayEarn).
