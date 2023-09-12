@@ -1,5 +1,5 @@
 # How's going?
-- Hey, my name is Jess and i'm from Brazil, i'm a Java, JavaScript Developer, here i'll post some of my works;
+- Hey, my name is Jess and i'm from Brazil, i'm a Java, JavaScript Developer Junior, here i'll post some of my works;
 - Here i'll share some of my work;
 - **Most of my Source-Code are private**, i just show their functions, and how they works.
 
