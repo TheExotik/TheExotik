@@ -13,3 +13,6 @@
 - (**MINECRAFT**) Mekanism ([Slimefun4 ](https://github.com/Slimefun/Slimefun4) Addons) => [Click here](https://github.com/TheExotik/Mekanism).
 - (**MINECRAFT**) Industrial Craft ([Slimefun4](https://github.com/Slimefun/Slimefun4) Addons) => [Click here](https://github.com/TheExotik/IndustrialCraft).
 - (**MINECRAFT**) Ex Nihilo ([Slimefun4](https://github.com/Slimefun/Slimefun4) Addons) => [Click here](https://github.com/TheExotik/ExNihilo).
+
+# JavaScript Projects
+- (**Landing Page**) *Without Name yet* => [Click Here](https://github.com/TheExotik/LandingPage.1).
