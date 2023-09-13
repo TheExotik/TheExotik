@@ -9,11 +9,11 @@
 - You can also open a "[Request](https://github.com/TheExotik/TheExotik/issues)" here (do **NOT** send personal informations here, use my Discord or Gmail instead.) This option is just for organization.
 
 # Java Projects
-- (**DISCORD**) Discord Bot => [Click Here](https://github.com/TheExotik/Discord-Bot).
-- (**MINECRAFT**) Mekanism ([Slimefun4 ](https://github.com/Slimefun/Slimefun4) Addons) => [Click here](https://github.com/TheExotik/Mekanism).
-- (**MINECRAFT**) Industrial Craft ([Slimefun4](https://github.com/Slimefun/Slimefun4) Addons) => [Click here](https://github.com/TheExotik/IndustrialCraft).
-- (**MINECRAFT**) Ex Nihilo ([Slimefun4](https://github.com/Slimefun/Slimefun4) Addons) => [Click here](https://github.com/TheExotik/ExNihilo).
+- (**Discord Bot**) Spectral Bot => [Click Here](https://github.com/TheExotik/Discord-Bot).
+- (**Minecraft Plugin**) Mekanism ([Slimefun4 ](https://github.com/Slimefun/Slimefun4) Addons) => [Click here](https://github.com/TheExotik/Mekanism).
+- (**Minecraft Plugin**) Industrial Craft ([Slimefun4](https://github.com/Slimefun/Slimefun4) Addons) => [Click here](https://github.com/TheExotik/IndustrialCraft).
+- (**Minecraft Plugin**) Ex Nihilo ([Slimefun4](https://github.com/Slimefun/Slimefun4) Addons) => [Click here](https://github.com/TheExotik/ExNihilo).
 
 # JavaScript Projects
 - (**Landing Page**) *Without Name yet* => [Click Here](https://github.com/TheExotik/LandingPage.1).
-- (**Game**) Stay Earn (Play-To-Earn game) => [Click Here to Play](https://rede-spectro.com.br/Menus/Home/HomePage.html)
+- (**Game**) Stay Earn (Play-To-Earn style) => [Click Here to Play](https://rede-spectro.com.br/Menus/Home/HomePage.html)
