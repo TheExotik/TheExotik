@@ -9,10 +9,7 @@
 - You can also open a "[Request](https://github.com/TheExotik/TheExotik/issues)" here (Please, do **NOT** send personal informations here, use my Discord or Gmail instead.) This option is just for organization.
 
 # Java Projects
-- (**Discord Bot**) Spectral Bot => [Click Here](https://github.com/TheExotik/Discord-Bot).
-- (**Minecraft Plugin**) Mekanism ([Slimefun4 ](https://github.com/Slimefun/Slimefun4) Addons) => [Click here](https://github.com/TheExotik/Mekanism).
-- (**Minecraft Plugin**) Industrial Craft ([Slimefun4](https://github.com/Slimefun/Slimefun4) Addons) => [Click here](https://github.com/TheExotik/IndustrialCraft).
-- (**Minecraft Plugin**) Ex Nihilo ([Slimefun4](https://github.com/Slimefun/Slimefun4) Addons) => [Click here](https://github.com/TheExotik/ExNihilo).
+- Soon
 
 # JavaScript, HTML & CSS Projects
 - Soon
