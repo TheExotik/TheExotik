@@ -6,11 +6,23 @@
 
 # Contact
 - You can found me in my [discord](https://discord.gg/nJ83UkbYue) server;
-- You can contact me via Gmail exotik.contato@gmail.com;
-- You can also open a "[Request](https://github.com/TheExotik/TheExotik/issues)" here (Please, do **NOT** send personal informations here, use my Discord or Gmail instead.) This option is just for organization.
+- You can contact me via Gmail [exotik.contato@gmail.com]();
+- You can also open a "[Request](https://github.com/TheExotik/TheExotik/issues)" here (Please, do **NOT** send personal informations here, use my [Discord](https://discord.gg/nJ83UkbYue) or [Gmail](exotik.contato@gmail.com) instead.) This option is just for organization.
 
-# Java Projects
+# Minecraft Plugins Projects
 - Soon
 
-# JavaScript Projects
+# Minecraft Mods Projects
+- Soon
+
+# Discord Bots Projects
+- Soon
+
+# Website Projects
+- Soon
+
+# Games Projects
+- Soon
+
+# Software Projects
 - Soon
