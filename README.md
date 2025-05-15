@@ -1,5 +1,5 @@
 # How's going?
-- Hey, my name is Jessi and i'm from Brazil, i'm a Java Developer Junior;
+- Hey, my name is João and i'm from Brazil, i'm a Java Developer Junior;
 - Here i'll share some of my work;
 - **Most of my Source-Code are private**, i just show their functions, and how they works.
 - If you like what you see here, feel free to give me a feedback or any other kind of support you like ;)
